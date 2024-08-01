@@ -1,0 +1,8 @@
+div .text {
+    background-color: yellow;
+    color : red;
+    font-size: 20px;
+    text-align: center;
+}
+/* Тут используется комбинация класса и типа, также могло быть 
+div p (только типы) или .container .text (только классы)*/
